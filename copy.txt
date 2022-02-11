@@ -1,0 +1,28 @@
+                                                                BODY DE HOME
+<h1>Holis</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint dolores voluptates
+        tenetur nobis tempore, molestias rerum eos quas earum fugit consectetur corrupti
+        voluptate distinctio blanditiis accusamus, a aperiam totam aliquid.
+    </p>
+
+    <a href="http://127.0.0.1:5000/about">About</a>
+    <a href="http://127.0.0.1:5000/contact">contact</a>
+    <a href="http://127.0.0.1:5000/experience">experience</a>
+    <a href="http://127.0.0.1:5000/portafolio">portafolio</a>
+    <a href="http://127.0.0.1:5000/skills">skills</a>
+    <a href="http://127.0.0.1:5000/testimonial">testimonial</a>
+
+    <form action="" method="get">
+        <label for="task">task
+            <input type="text" name="task" id="task">
+        </label>
+        <input type="submit" value="send">
+    </form>
+
+
+    <!--     <video width="1920" height="1080" controls="controls">
+
+        <source src="C:\PIU_Projects\Repos\tarea-01\pleasework.mp4" type="video/mp4">
+    </video> -->
+
+    ?autoplay=1&mute=1 para videos de youtube
