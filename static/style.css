@@ -297,4 +297,48 @@ margin-bottom: 3%;
   align-items: center;
 }
 
+.card a:hover {
+  background-color: darkred;
+}
+
 /* about */
+
+.row a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: red;
+  text-align: center;
+  margin-left: 20px ;
+  padding: 15px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 10px;
+  border-bottom: darkred;
+  border-style:solid;
+  border-bottom-width: 5px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  align-items: center;
+}
+
+.boton a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: red;
+  text-align: center;
+  margin-left: 20px ;
+  padding: 15px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 10px;
+  border-bottom: darkred;
+  border-style:solid;
+  border-bottom-width: 5px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  align-items: center;
+}
