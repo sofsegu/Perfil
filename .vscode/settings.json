@@ -6,4 +6,5 @@
     "python.linting.pycodestyleArgs": [
         "--max-line-length=150"
     ],
+    "liveServer.settings.port": 5502,
 }
