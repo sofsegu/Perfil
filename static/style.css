@@ -258,13 +258,14 @@ margin-bottom: 3%;
 
 /* Fake image */
 .fakeimg {
-  background-color: #aaa;
+  background-color: rgb(194, 136, 27);
   width: 100%;
   padding: 20px;
+  text-align: center;
 }
 
 .card {
-  background-color: white;
+  background-color: rgb(99, 92, 92);
   padding: 20px;
   margin-top: 20px;
 }
@@ -276,5 +277,24 @@ margin-bottom: 3%;
   }
 }
 
+.card a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: red;
+  text-align: center;
+  margin-left: 20px ;
+  padding: 15px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 10px;
+  border-bottom: darkred;
+  border-style:solid;
+  border-bottom-width: 5px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  align-items: center;
+}
 
 /* about */
